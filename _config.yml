@@ -1,6 +1,2 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 title: PS240 Website
 description: Information for Duke course PS240/PSY225 Political Psychology
