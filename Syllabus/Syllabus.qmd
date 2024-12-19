@@ -1,0 +1,697 @@
+# POLSCI 240 / PSY 225: POLITICAL PSYCHOLOGY
+
+<style>
+.columns {
+  display: flex;           /* Ensures the columns are side by side */
+  gap: 10px;               /* Adds space between columns */
+}
+
+.column {
+  border: 1px solid lightgrey;
+  padding: 10px;
+  flex: 1;                 /* Ensures columns take up equal space */
+  border-radius: 5px;      /* Optional: rounded corners */
+}
+</style>
+
+![](images/course_logo.jpg)
+
+:::: columns
+::: column
+**Lectures**
+
+- **Time**: M/W 10:05-11:20
+- **Location**: Physics 130
+
+**Instructor**: Chris Johnston
+
+- **Email**: cdj19@duke.edu
+- **Office**: Gross Hall 294J
+- **Office hours**: by email appointment (please feel free to reach out - I am always happy to meet!)
+:::
+
+::: column
+**Sections** 
+
+- Check your schedule for date, time, location!
+
+**TA**: Ryan Clifton
+
+- **Email**: ryan.clifton@duke.edu
+- **Office hours:**
+
+**TA**: Kristina Mensik
+
+- **Email**: kristina.mensik@duke.edu
+- **Office hours:**
+:::
+::::
+
+## SUMMARY
+
+This is an introductory course in Political Psychology. Our goal is to give you a set of basic conceptual tools to help you make sense of the political world.
+
+We'll cover a lot of big questions this semester, including:
+
+- Is it rational to vote? If not, why do people do it?
+- How do people answer questions about politics, and what does this say about the quality of their opinions?
+- Why do some people end up "liberals" and others "conservatives"?
+- Can people listen openly to alternative views and change their minds?
+- What is an "identity" and how does it influence political behavior?
+- What decision rules do people use when choosing among candidates?
+- Is partisanship a good or bad influence on politics?
+
+For each topic, we will consider one or more models for thinking through these and related questions. Models are simplifications of reality. But if they capture the most important moving parts, they can shed a great deal of light on even complex phenomena like political behavior. 
+
+Our goal is to study a range of simple models that have proven useful for understanding politics. Since this is a course on Political *Psychology*, our models will typically integrate ideas from the field of Psychology, in addition to Political Science. But we will often take "rational choice" or "economic" models as a point of departure. That is, we will often consider first what a fully rational (and perhaps omniscient) economic actor might do. We will then build on these models, as needed, to capture aspects of political behavior they cannot.
+
+***
+
+To do well in this course, you need to both read and attend (and pay attention in) lectures. Readings and lectures overlap, but they are not substitutes. I will cover a great deal of content in lecture that is not covered in that week's readings. You should think about readings as complements to lectures. To make sure you keep up with readings, we will have weekly, in-class quizzes on Wednesdays that include material from the readings for that week (and can also contain content from Monday's lecture). These quizzes are not intended to be difficult or tricky. Rather, they are easy points if you keep up and pay attention. Obviously, reading and attending lectures is essential to doing well on the Midterm and Final Exams.
+
+Sections will also complement lectures and readings. Many weeks, sections will be for discussion about the week's topic. In other weeks, you will work in small teams on a semester-long group project. In this project, you will, together as a team, design and implement your own replication study of a previously published piece of research. You will work on this project in small pieces throughout the semester, and we will hold several tutorial sections that give you skills needed to complete the project. Your team will present your work to the class in the last week of the semester.
+
+
+## GRADING 
+
+Final grades are determined as follows:
+
+:::: {.columns}
+
+::: {.column width="20%"}
+98-100 A+ </br>
+93-97 A </br>
+90-92 A-
+:::
+
+::: {.column width="20%"}
+88-90 B+ </br>
+83-87 B </br> 
+80-82 B-
+:::
+
+::: {.column width="20%"}
+78-80 C+ </br>
+73-77 C </br>
+70-72 C-
+:::
+
+::: {.column width="20%"}
+68-70 D+ </br>
+63-67 D </br>
+60-62 D-
+:::
+
+::: {.column width="20%"}
+<60 F 
+</br> 
+</br>
+</br>
+:::
+
+::::
+
+### Sections (20%)
+
+Your section grade has two, equally-weighted components:
+
+- Attendance (10%)
+- Participation (10%)
+
+Your attendance grade is 100% minus the percentage of unexcused absences from section you accumulate over the course of the semester. 
+
+Your participation grade will be determined qualitatively, based on your level of engagement with the section each week. Participation is graded on both active participation *and attentiveness*. If you spend section focused primarily on your laptop instead of your classmates and TA, you will receive a low participation grade.
+
+### Quizzes (12 total; 2% each, 2 dropped, for 20% total)
+
+It is *recommended* to complete the week's assigned readings prior to the start of Monday's class. 
+
+- In week's where sections involve discussion of readings, you are *required* to complete them prior to your section, so that you can participate in discussions. 
+- For *all* weeks, you are *required* to complete assigned readings by the start of class on Wednesday. 
+
+To ensure you keep up with readings, and complete them on time, **you will have one quiz each (non-exam) week.** Quizzes will cover reading assignments for that week as well as material in Monday's lecture. They are designed to be straightforward *if* you have completed the reading assignment and attended (and paid attention to) lecture. 
+
+- All quizzes will take place on Wednesdays at the start of lecture. 
+- Each quiz will be 5 minutes long and will begin sharply at 10:05. 
+- **There are no make-up quizzes!** 
+- You may drop your lowest 2 scores at the end of the semester (including 0s / missed quizzes). 
+- The quiz questions will be provided in-class only. 
+- You will complete the quiz using Gradescope pre-printed bubble sheets - bring these sheets and a pen or pencil to class every Wednesday.
+
+***
+
+**Before your first quiz, do the following:**
+
+- Print out (at least) 14 copies of the *first page* of [Gradescope's bubble sheet template](https://gradescope-static-assets.s3.amazonaws.com/examples/bubble_sheet_v2/template.pdf), and store them in a bag, notebook, etc. that you know you will bring to class. You will use 12 for quizzes and 2 for exams.
+- Make sure you have a pen or pencil in a bag, notebook, etc. that you know you will bring to class.
+- **Make a plan to be in class on-time, every time!** There are no make-up quizzes.
+
+
+
+### Exams (2 total; 20% each, for 40% total)
+
+You will take 2 exams this semester. 
+
+- Neither exam is cumulative - each will cover only half of the course. 
+- The Midterm Exam will cover weeks 1-7. The final will cover weeks 8-15.
+- Both exams will be taken in-person using pen and paper. 
+- They will be a combination of multiple choice, short answer, and short essay questions. You need to bring a Gradescope bubble sheet to each exam for the multiple choice.
+- If you have an accommodation that affects your exams, please let us know *well before the exam*.
+
+### Final Project (20%)
+
+You will work in groups of 4-6 people. Your task is to design, conduct, and analyze a survey or survey experiment on a topic of interest to you in the field of political psychology. In the last week of semester, you will present your project to the class. 
+
+You are required to "check-in" on your progress throughout the semester. You will also have several opportunities to use time in sections to make progress and to ask questions of your TAs (your groups will be assigned within sections to facilitate this). We are also happy to meet with you outside of class, as needed.
+
+The project sequence is as follows:
+
+1. Pick a topic of interest to your group in political psychology. 
+    - **Submit a 250 word description of your topic through Canvas by 1/24 at 5pm.**
+
+2. Review existing research on that topic. 
+    - Each group member should read three journal articles and write a 250 word summary of each (we will discuss acceptable journals in sections). 
+    - **Submit your summary through Canvas by 2/7 at 5pm.**
+
+3. Choose 1 of the studies you read to replicate. 
+    - The study you choose should be something you can accomplish *through a survey* *this semester*. 
+    - It should be something feasible for you to do, which means it cannot be too complicated in terms of data science/statistics. We will dedicate 1 section to an overview of the kinds of studies that are likely to be feasible. 
+    - **Submit a 250-word proposal for replication through your group site on Canvas by 2/21 at 5pm.**
+
+4. Design your study in Qualtrics. 
+    - You will have 1 section devoted to a Qualtrics tutorial to help you with this. 
+    - **Submit your Qualtrics survey file through your Canvas group site by 3/7 at 5pm.**
+
+5. We will collect data for your survey over Spring Break.
+
+6. Your group will receive a data file, you will conduct the replication tests required for your study, and you will present these in professional-looking tables or figures (as needed). 
+    - You will work, as a team, in `Posit Cloud`, using `R` and `R Studio`. 
+    - We will devote 1 section to showing you the basics of these, and you will get 1 additional section to work together as a group and get help from your TA. 
+    - **You should submit your final code (as a Quarto document) by 4/4 at 5pm through the Canvas assignment.**
+    
+7. You will turn your project into a slide deck to present to the class during the last week of the semester. 
+    - The slide deck should include an overview of the topic based on the papers you read, a more detailed description of the study you chose to replicate, an overview of the survey you designed for your replication, a description of the analyses you ran for your replication, a presentation of the results and how they compare to the original study, and a conclusion discussing what you learned about your topic from your study.
+    - You will have some time in sections to work on this. You will create your slide deck using Quarto presentations in RStudio (using Posit Cloud). We will show you how to do this.
+    - **Submit your final slide deck (including both the Quarto presentation and the rendered html file) through the Canvas assignment by 4/18 at 5pm.**
+
+***
+
+Project grades will equally weight individual and group performance. 
+
+Group performance will be evaluated based on the timeliness and quality of all all submitted portions of the project, as described above. 
+
+Individual performance will be graded on (when relevant):
+
+1. Quantity and quality of participation in group project activities.
+2. On-time submission and quality of work for annotated bibliography (the 3 articles you will read for your group).
+3. Preparation and quality of presentation of your portion of the slide deck.
+
+
+## SCHEDULE
+
+### Week 1: Course Introduction
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Jan 6**
+ 
+- NO CLASS
+:::
+
+::: {.column width="33%"}
+**Wed Jan 8**
+ 
+- Look over syllabus 
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- NO SECTIONS!
+:::
+
+::::
+
+### Week 2: Rationality and Political Participation
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Jan 13**
+
+What is rationality? What might it imply about voting?
+
+- Read Ayta&#231; and Stokes, Chapter 2
+:::
+
+::: {.column width="33%"}
+**Wed Jan 15**
+
+The calculus of voting; psychological theories of turnout
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Small group introductions
+- Discuss how to conduct literature review and acceptable journals
+:::
+
+::::
+
+### Week 3: Rationality and Political Participation (cont.)
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Jan 20**
+ 
+NO CLASS
+
+- Read Caplan, Chapters 4 & 5
+:::
+
+::: {.column width="33%"}
+**Wed Jan 22**
+
+Rational irrationality; instrumental vs expressive behavior
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Discuss Caplan
+:::
+
+::::
+
+### Week 4: Attitudes, Non-Attitudes and Constraint
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Jan 27**
+
+Belief systems & constraint; non-attitudes & measurement error
+ 
+- Read Kinder & Kalmoe
+- Read Zaller
+:::
+
+::: {.column width="33%"}
+**Wed Jan 29**
+
+Constructionist theories of attitudes; RAS model
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Discuss Kinder & Kalmoe
+:::
+
+::::
+
+### Week 5: Values and Ideology
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Feb 3**
+
+Latent variables; multi-dimensionality; alternative belief systems
+ 
+- Read Feldman
+:::
+
+::: {.column width="33%"}
+**Wed Feb 5**
+
+Values, personality, & ideology
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- How to pick a replication study
+- Group brainstorming
+:::
+
+:::: 
+
+### Week 6: Belief Updating and Persuasion
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Feb 10**
+
+Bayesian updating; conditions for persuasion
+
+- Read Lupia & McCubbins
+- Read Galef, Chapters 1-3
+:::
+
+::: {.column width="33%"}
+**Wed Feb 12**
+
+Motivated reasoning and disagreement
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Discuss Galef
+:::
+
+::::
+
+### Week 7: Social Influence
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Feb 17**
+
+Contagion; networks & opinion dynamics; social nature of constraint
+ 
+- Watch Smaldino, [Unit 2](https://learn.culturalevolutionsociety.org/social_dynamics_module/unit02-contagion) & [Unit 3](https://learn.culturalevolutionsociety.org/social_dynamics_module/unit03-opinions)
+- Read [Kuran](https://www.thefp.com/p/how-misinformation-becomes-common)
+:::
+
+::: {.column width="33%"}
+**Wed Feb 19**
+
+Conformity; preference falsification & opinion change
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Qualtrics tutorial
+:::
+
+::::
+
+### Week 8: Groups and Social Identities
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Feb 24**
+
+Rational theories of intergroup conflict
+
+- Read Shepsle, pp. 232-241
+- Read Hale
+:::
+
+::: {.column width="33%"}
+**Wed Feb 26**
+
+Ethnicity and ethnocentrism
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Discuss Hale
+:::
+
+::::
+
+### Week 9: Groups and Social Identities (cont) / EXAM 1
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Mar 3**
+
+Social identity theory
+ 
+- Read Tajfel & Turner
+:::
+
+::: {.column width="33%"}
+**Wed Mar 5**
+ 
+- EXAM 1 TODAY
+- EXAM COVERS WEEKS 1-7 ONLY
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+NO SECTIONS THIS WEEK!!!
+:::
+
+::::
+
+### Week 10: SPRING BREAK - NO CLASS
+
+
+### Week 11: Expected Utility and Spatial Theory
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Mar 17**
+
+Expected utility; proximity models
+
+- Read Angner, pp. 137-138
+- Read Merrill & Grofman, Chapter 2
+:::
+
+::: {.column width="33%"}
+**Wed Mar 19**
+
+Directional and discounting models; ideology and choice
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Google Colab and `Python` tutorial
+:::
+
+::::
+
+### Week 12: Risk and Time Preferences
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Mar 24**
+
+Utility and risk aversion; prospect theory 
+
+- Read Angner, pp. 142-144
+- Kahneman, Chapter 26
+- Read Angner, pp. 182-183, 188-189, 192-195
+:::
+
+::: {.column width="33%"}
+**Wed Mar 26**
+
+Exponential and hyperbolic discounting
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Time to work on final project in your groups
+:::
+
+::::
+
+### Week 13: Retrospective Voting
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Mar 31**
+
+Logics of retrospective voting
+ 
+- Read Achen & Bartels, Chapters 4 & 6
+:::
+
+::: {.column width="33%"}
+**Wed Apr 2**
+
+Biases in retrospective voting
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Discuss Achen & Bartels, retrospective voting
+:::
+
+::::
+
+### Week 14: Partisanship
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Apr 7**
+
+Why parties; parties in the electorate
+ 
+- Read Green et al., Chapter 1
+- Read Huddy et al.
+:::
+
+::: {.column width="33%"}
+**Wed Apr 9**
+
+Theories of partisanship
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Discuss the nature of partisanship
+:::
+
+::::
+
+### Week 15: Bounded Rationality
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Mon Apr 14**
+
+Bounded rationality; heuristic decision strategies
+ 
+- Read Gigerenzer & Gaissmeier
+:::
+
+::: {.column width="33%"}
+**Wed Apr 16**
+
+Heuristics in political choice
+ 
+- In-class quiz
+:::
+
+::: {.column width="33%"}
+**Sections**
+ 
+- Time to work in groups on final presentation
+:::
+
+::::
+
+### Week 16: Presentations
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Mon Apr 21**
+
+GROUP PRESENTATIONS
+ 
+- NO READINGS
+:::
+
+::: {.column width="50%"}
+**Wed Apr 23**
+
+GROUP PRESENTATIONS
+ 
+- NO QUIZ
+:::
+
+::::
+
+## POLICIES
+
+### Communication and Course Information
+
+All communication for this course will operate through Canvas. 
+
+- All assignments are listed by week in the course Modules section. 
+- You will turn in all assignments through the course Assignments section. 
+- You should verify that you are receiving emails through Canvas. 
+- Your course grades can be found in the “Grades” section.
+
+
+### Duke Community Standard
+
+All students must adhere to the [Duke Community Standard](https://dukecommunitystandard.students.duke.edu/) (DCS). Duke University has high expectations for students’ scholarship and conduct. In accepting admission, students subscribe to and are governed by the rules and regulations of the university, which are outlined in the Duke Community Standard. 
+
+Regardless of course delivery format, it is the responsibility of all students to understand and follow all Duke policies, including academic integrity (e.g., completing one's own work, following proper citation of sources, adhering to guidance around group work projects, and more). Ignoring these requirements is a violation of the Duke Community Standard. Any questions or concerns regarding academic integrity can be directed to the [Office of Student Conduct and Community Standards](conduct@duke.edu).
+
+### Large Language Models ("LLMs", e.g., ChatGPT)
+
+LLMs are useful tools when learning to code, and you should feel free to consult them when working on your analyses for your group project. But do be careful: if you just copy and paste code without understanding and testing it, you may end up with a poor result, and won't learn much from this part of the assignment (which would be shame). 
+
+The best strategy is to try your best to solve your problem without asking an LLM for help. Only consult an LLM if you are completely stuck. It is better, at first, to Google your question and read posts on sites like Stack Exchange, or consult one of us (you will have time in sections with help from TAs). This will help you to learn. If you just copy and paste from ChatGPT, even if the code works, you won't have learned anything.
+
+**Do not** use an LLM to write text for your presentations. These should all be written by you. More generally, you should know that ChatGPT has been known to generate text that could be considered plagiarism. 
+
+**The upshot: feel free to use LLMs as "tech support" for your coding work, but leave it aside when writing your presentations!**
+
+If you have any questions or concerns about this, feel free to reach out to us, and we can talk about it.
+
+### Academic Accommodations
+
+If you are a student with a disability and need accommodations for this class, it is your responsibility to register with the [Student Disability Access Office](https://access.duke.edu/students/) (SDAO) and provide them with documentation of your disability. SDAO will work with you to determine what accommodations are appropriate for your situation. 
+
+Please note that accommodations are not retroactive and disability accommodations cannot be provided until a Faculty Accommodation Letter has been given to me. Please contact SDAO for more information: [SDAO](sdao@duke.edu) or [Access Duke](access.duke.edu). 
+
+### Missed Course Work Policy
+
+[Standard Duke policies](https://trinity.duke.edu/undergraduate/academic-policies/class-attendance-and-missed-work) on missed course work apply. Missed course work is officially accommodated in three circumstances: (1) Illness or other extraordinary personal circumstance, (2) Religious observance, and (3) Varsity athletic participation. 
+
+**Short-term illness** will be accommodated by means of the [short-term illness incapacitation](http://trinity.duke.edu/undergraduate/academic-policies/illness) form. This form cannot be used for exam days. 
+
+- Long-term medical issues and/or extraordinary personal circumstances are handled in consultation with the relevant academic dean. If the latter applies to you, please speak with your dean and we will work together to accommodate you. 
+
+Missed work related to **religious observance** will be accommodated by means of the [religious observance notification form](http://trinity.duke.edu/undergraduate/academic-policies/religious-holidays), which must be submitted no later than one week prior to the date of the holiday. 
+
+Missed work due to participation in **varsity athletic competition** is accommodated by means of the notification of [varsity athletic participation form](http://trinity.duke.edu/undergraduate/academic-policies/athletic-varsity-participation), which must be submitted no later than one week prior to the date of the participation.
+
+### Class Discussion
+
+[Adapted from Duke Learning Innovation](https://lile.duke.edu/blog/2018/01/guidelines-interaction-better-class-discussions/), here are some ways each of us can contribute to making class discussions engaging and educational, while treating each other with respect:
+
+- Allow everyone a chance to speak.
+- Listen respectfully and actively.
+- Criticize ideas, not individuals.
+- Commit to learning from those with whom you disagree.
+- Avoid inflammatory language.
+- Avoid assumptions about others, especially based on their perceived social group.
+
+We will try our best to embody and foster these values. Please tell me if you think we have fallen short in any way – I will always be open to, and appreciative of, such criticism. 
+
+
+
+
