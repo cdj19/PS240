@@ -299,8 +299,8 @@ Rational irrationality; instrumental vs expressive behavior
 
 Belief systems & constraint; non-attitudes & measurement error
  
-- Read Kinder & Kalmoe
-- Read Zaller
+- Read Kinder & Kalmoe, Chapter 1
+- Read Zaller, Chapters 2 & 3
 :::
 
 ::: {.column width="33%"}
@@ -314,7 +314,7 @@ Constructionist theories of attitudes; RAS model
 ::: {.column width="33%"}
 **Sections**
  
-- Discuss Kinder & Kalmoe
+- Discuss the nature of mass opinion
 :::
 
 ::::
@@ -475,7 +475,7 @@ NO SECTIONS THIS WEEK!!!
 Expected utility; proximity models
 
 - Read Angner, pp. 137-138
-- Read Merrill & Grofman, Chapter 2
+- Read Merrill & Grofman, pp. 1-9, 19-37
 :::
 
 ::: {.column width="33%"}
@@ -489,7 +489,7 @@ Directional and discounting models; ideology and choice
 ::: {.column width="33%"}
 **Sections**
  
-- Google Colab and `Python` tutorial
+- R, RStudio, Posit Cloud tutorials
 :::
 
 ::::
